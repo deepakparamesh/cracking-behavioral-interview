@@ -4,4 +4,4 @@ Many job seekers underestimate the need to prepare for behavioral interviews. Th
 
 In such situations, our brains spend valuable processing time on keeping us calm and appearing professional, which means that there is less brain capacity for retrieving memories and stringing words together in an intelligent way.
 
-Without enough preparation, candidates may end up rambling or sharing incoherent examples
+Without enough preparation, candidates may end up rambling or sharing incoherent examples.
